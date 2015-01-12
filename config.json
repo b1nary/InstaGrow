@@ -5,33 +5,25 @@
         "like_and_follow": false,
         "follow_people": true,
         "port": 4444,
-        "hostname": "host.duck.pw"
+        "hostname": "example.com"
     },
     "clients": [
         {
-            "client_id": "d85d021e052341aabd29c550e659ae40",
-            "client_secret": "42a98a9214714b0aa38dacb7f5f3ba2f"
+            "client_id": "XXXX",
+            "client_secret": "XXXX"
         },
-	{
-            "client_id": "f3b1d303351044e9b0ecf16eaee3844c",
-            "client_secret": "3025ca59606842dfb01b94c128980375"
-        }, 
-        {
-            "client_id": "a7901c286a794100a8b8ccd0e9662222",
-            "client_secret": "5617a6240a5a46c98df67633ff272042"
-        }, 
-        {
-            "client_id": "16bd3865090f44fe9a79c2fce2f4439a",
-            "client_secret": "ce7d4460cf1e41ae99a96e89b33b61d1"
-        }, 
-        {
-            "client_id": "0f3959af908848b9ab68d157287b8a2c",
-            "client_secret": "f49e13175f744b2cb314fc6b2c415b34"
+	   {
+            "client_id": "XXXX",
+            "client_secret": "XXXX"
         }
     ],
     "limits": {
         "follow": 20,
         "likes": 30
+    },
+    "unfollow": {
+        "enabled": true,
+        "after_days": 5
     },
     "tags": [
         "nofilter",
