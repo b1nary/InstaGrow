@@ -1,3 +1,5 @@
+# Project dead. Instagram does barely allow anything with their API anymore. Good luck getting out of Sandbox mode. Fuck you Instagram, why do you take away all the fun?
+
 # InstaGrow
 
 Grow your Instagram audience naturally with real followers. Automated. Easy.
